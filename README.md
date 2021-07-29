@@ -2,6 +2,10 @@
 
 <img src="oneeye.png" width='300' />
 
+### View Project
+<a href="https://aprilyax.github.io/Eyes/eyes.html">See the eyes animation in action</a>
+
+
 ## Desciption
 A pair of eyes follows the mouse around the screen. This project demonstrates examples of programmatic styling by manipulating an object on the screen using mouse movement detection. The project applies CSS styles to create a web page layout and uses JavaScript to set web page sytles.
 
